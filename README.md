@@ -4,7 +4,7 @@ I'm a full stack web developer and Lighthouse Labs graduate!
 
 My true passion lies with front-end developement.
 
-When I'm not codeing, you can find me playing video games, reading, or hanging out with my dog.
+When I'm not coding, you can find me playing video games, reading, or hanging out with my dog.
 
 
 ## Languages and Tools
