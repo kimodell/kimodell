@@ -16,5 +16,3 @@ When I'm not coding, you can find me playing video games, reading, or hanging ou
 
 ![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimodell&show_icons=true&theme=nightowl&include_all_commits=true)
 ![Kim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimodell&layout=compact&theme=nightowl)
-
-[![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimodell)](https://github.com/anuraghazra/github-readme-stats)
